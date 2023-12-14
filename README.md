@@ -20,4 +20,4 @@ Check out our [wiki](https://github.com/whos-evan/kazwire/wiki) for development 
 ![brave_QshtoKtUd1](https://user-images.githubusercontent.com/72959444/212424747-7056dc96-0e39-49a8-ae2d-29d74fdcf8db.png)
 
 ## Credit:
-- [Interstellar](https://github.com/InterstellarNetwork/Interstellar) for their modified UV.
+- [Interstellar](https://github.com/InterstellarNetwork/Interstellar) for their modified UV.k
